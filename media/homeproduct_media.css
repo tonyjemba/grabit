@@ -1,0 +1,422 @@
+
+
+@media screen 
+and (device-width: 480px) 
+and (device-height: 800px)  
+and (orientation: portrait) {
+  .wids{
+    width: 20px;
+    padding-left: 10px  ;
+    padding-right: 10px;
+  }
+  .imgc{
+    height: 210px;
+    background-color: blue;
+  }
+  .leftright{
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .wadth{
+    width: 50px;
+    height: 70px;
+    top: 80px; left: 0
+  }
+  .wadth2{
+    width: 70px;
+    height: 80px;
+    top: 80px; right: 0
+    
+  }
+}
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+    
+}
+
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+
+/* ----------- Google Pixel XL ----------- */
+
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 2) 
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+
+/* ----------- Galaxy S4, S5 and Note 3 ----------- */
+
+
+
+/* Portrait */
+@media screen 
+  and (device-width: 320px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 3) 
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+
+
+/* ----------- Galaxy S6 ----------- */
+
+
+
+/* Portrait */
+@media screen 
+  and (device-width: 360px) 
+  and (device-height: 640px) 
+  and (-webkit-device-pixel-ratio: 4) 
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px ;
+      padding-right: 10px; 
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+/* ----------- iPhone 5, 5S, 5C and 5SE ----------- */
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+/* ----------- iPhone 6, 6S, 7 and 8 ----------- */
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) { 
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0
+      
+    }
+}
+
+
+
+/* ----------- iPhone 6+, 7+ and 8+ ----------- */
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+    .wids{
+      width: 20px;
+      padding-left: 10px  ;
+      padding-right: 10px;
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+      width: 50px;
+      height: 70px;
+      top: 80px; left: 0;
+      align-items: flex-end;
+      justify-content: left;
+    }
+    .wadth2{
+      width: 70px;
+      height: 80px;
+      top: 80px; right: 0;
+      align-items: flex-end;
+      justify-content: right;
+      
+    }
+}
+
+
+/* ----------- iPhone X ----------- */
+
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait) { 
+    .wids{
+      width: 20px;
+      padding-left: 10px ;
+      padding-right: 10px;
+
+    }
+    .imgc{
+      height: 210px;
+      background-color: blue;
+    }
+    .leftright{
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    .wadth{
+    width: 50px;
+    height: 70px;
+    top: 80px; left: 0
+  }
+  .wadth2{
+    width: 70px;
+    height: 80px;
+    top: 80px; right: 0
+    
+  }
+}

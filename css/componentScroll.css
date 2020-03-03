@@ -1,0 +1,37 @@
+.wids{
+  width: 20px;
+  padding-left: 10px;
+}
+.imgc{
+  height: 310px;
+  background-color: blue;
+}
+.leftright{
+  padding-left: 50px;
+  padding-right: 50px;
+  height: 500px;
+  
+}
+.wadth{
+  width: 70px;
+  height: 80px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  margin: auto;
+  top: 100px; left: 0
+}
+.wadth2{
+  width: 70px;
+  height: 80px;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  margin: auto;
+  top: 100px; right: 0
+  
+}

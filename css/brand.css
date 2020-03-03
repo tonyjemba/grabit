@@ -1,0 +1,19 @@
+
+.wath{
+   width: 5%;
+  font-size: large;
+  display: flex;
+  padding-left: 50px;
+  
+}
+.dis{
+  display: block;
+}
+.wath2{
+   width: 5%;
+  display: flex;
+  font-size: large;
+  justify-content: start;
+ 
+ 
+}
